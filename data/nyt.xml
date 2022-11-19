@@ -1,0 +1,565 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+<channel>
+<title>NYT > Technology</title>
+<link>https://www.nytimes.com/section/technology</link>
+<atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"/>
+<description/>
+<language>en-us</language>
+<copyright>Copyright 2022 The New York Times Company</copyright>
+<lastBuildDate>Sat, 19 Nov 2022 08:36:33 +0000</lastBuildDate>
+<pubDate>Sat, 19 Nov 2022 04:57:14 +0000</pubDate>
+<image>
+<title>NYT > Technology</title>
+<url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+<link>https://www.nytimes.com/section/technology</link>
+</image>
+<item>
+<title>Elizabeth Holmes Is Sentenced to More Than 11 Years for Theranos Fraud</title>
+<link>https://www.nytimes.com/2022/11/18/technology/elizabeth-holmes-sentence-theranos.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/18/technology/elizabeth-holmes-sentence-theranos.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/18/technology/elizabeth-holmes-sentence-theranos.html" rel="standout"/>
+<description>Ms. Holmes was convicted in January of four counts of wire fraud for deceiving investors with claims about her blood testing start-up Theranos.</description>
+<dc:creator>Erin Griffith</dc:creator>
+<pubDate>Sat, 19 Nov 2022 00:18:31 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Theranos Inc</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Balwani, Ramesh</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holmes, Elizabeth (1984- )</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/19/business/18holmes-sentence1-print/18holmes-sentence-1-moth.jpg" width="151"/>
+<media:credit>Jim Wilson/The New York Times</media:credit>
+<media:description>Elizabeth Holmes with her partner, Billy Evans, at the federal courthouse in San Jose, Calif., on Friday. She was convicted of four charges of fraud in January. </media:description>
+</item>
+<item>
+<title>Elon Musk’s Twitter Teeters on the Edge After Another 1,200 Leave</title>
+<link>https://www.nytimes.com/2022/11/18/technology/elon-musk-twitter-workers-quit.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/18/technology/elon-musk-twitter-workers-quit.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/18/technology/elon-musk-twitter-workers-quit.html" rel="standout"/>
+<description>Mr. Musk sent emails on Friday asking to learn about Twitter’s underlying technology as key infrastructure teams have been decimated.</description>
+<dc:creator>Ryan Mac, Mike Isaac and Kellen Browning</dc:creator>
+<pubDate>Sat, 19 Nov 2022 02:28:19 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/18/business/18twitter-1/18twitter-1-moth.jpg" width="151"/>
+<media:credit>Jason Henry for The New York Times</media:credit>
+<media:description>Twitter’s headquarters in San Francisco. So many workers have left that Twitter users have questioned whether the site would survive.</media:description>
+</item>
+<item>
+<title>Ticketmaster’s Parent Company Said to Face Justice Department Investigation</title>
+<link>https://www.nytimes.com/2022/11/18/technology/live-nation-ticketmaster-investigation-taylor-swift.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/18/technology/live-nation-ticketmaster-investigation-taylor-swift.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/18/technology/live-nation-ticketmaster-investigation-taylor-swift.html" rel="standout"/>
+<description>The inquiry predates the botched presale of Taylor Swift tickets this week and is said to focus on whether Live Nation has abused its power in the live music industry.</description>
+<dc:creator>David McCabe and Ben Sisario</dc:creator>
+<pubDate>Sat, 19 Nov 2022 04:32:57 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Box Office Sales</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Live Nation Entertainment Inc</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ticketmaster</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/19/business/18ALTjpLIVENATION-print/18LIVENATION-SWIFT-moth.jpg" width="151"/>
+<media:credit>Krista Schlueter for The New York Times</media:credit>
+<media:description>An overwhelming number of presale ticket buyers for Taylor Swift’s concert tour crashed Ticketmaster’s systems this week.</media:description>
+</item>
+<item>
+<title>FTX’s Unraveling and Elon Musk’s Ultimatum to Twitter Employees</title>
+<link>https://www.nytimes.com/2022/11/18/podcasts/a-hard-fork-in-the-road-ftxs-unraveling-and-elons-loyalty-oath.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/18/podcasts/a-hard-fork-in-the-road-ftxs-unraveling-and-elons-loyalty-oath.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/18/podcasts/a-hard-fork-in-the-road-ftxs-unraveling-and-elons-loyalty-oath.html" rel="standout"/>
+<description>Sam Bankman-Fried’s DMs go public, and Congress announces an investigation. Tech’s nightmare November continues.</description>
+<dc:creator>Kevin Roose, Casey Newton, Davis Land, Paula Szuchman, Sophia Lanman, Dan Powell, Marion Lozano and Elisheba Ittoop</dc:creator>
+<pubDate>Fri, 18 Nov 2022 22:33:09 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/18/podcasts/18HF-ftx-twitter/18HF-ftx-twitter-moth.jpg" width="151"/>
+<media:credit>Photo Illustration: The New York Times; Image: Dado Ruvic/Reuters</media:credit>
+</item>
+<item>
+<title>What Employees Does Twitter Need, Anyway?</title>
+<link>https://www.nytimes.com/2022/11/18/technology/twitter-employees-needed.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/18/technology/twitter-employees-needed.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/18/technology/twitter-employees-needed.html" rel="standout"/>
+<description>The many departures have set off a wave of hand-wringing about whether the site can continue to operate well.</description>
+<dc:creator>Cecilia Kang</dc:creator>
+<pubDate>Fri, 18 Nov 2022 22:53:28 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/18/business/18twitter-explain/18twitter-explain-moth.jpg" width="151"/>
+<media:credit>Jason Henry for The New York Times</media:credit>
+<media:description>Twitter employees are walking off the job this week.</media:description>
+</item>
+<item>
+<title>How to Download Your Twitter Archive</title>
+<link>https://www.nytimes.com/2022/11/18/technology/how-to-download-your-twitter-archive.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/18/technology/how-to-download-your-twitter-archive.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/18/technology/how-to-download-your-twitter-archive.html" rel="standout"/>
+<description>Those worried about the service’s longevity can preserve their tweets, media and direct messages.</description>
+<dc:creator>Daniel Victor</dc:creator>
+<pubDate>Fri, 18 Nov 2022 15:04:47 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/18/multimedia/18xp-twitter-archive-01-1-e9bf/18xp-twitter-archive-01-1-e9bf-moth.jpg" width="151"/>
+<media:credit>Jim Wilson/The New York Times</media:credit>
+<media:description>Mass resignations at Twitter have prompted concerns about the future of the social media site.</media:description>
+</item>
+<item>
+<title>Resignations Roil Twitter as Elon Musk Tries Persuading Some Workers to Stay</title>
+<link>https://www.nytimes.com/2022/11/17/technology/twitter-elon-musk-ftc.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/17/technology/twitter-elon-musk-ftc.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/17/technology/twitter-elon-musk-ftc.html" rel="standout"/>
+<description>Mr. Musk, Twitter’s new owner, had given employees a Thursday deadline to decide whether to leave or stay “to build a breakthrough Twitter 2.0.”</description>
+<dc:creator>Ryan Mac, Mike Isaac and David McCabe</dc:creator>
+<pubDate>Fri, 18 Nov 2022 15:51:50 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/17/business/17twitter-ftc-musk/17twitter-ftc-musk-moth.jpg" width="151"/>
+<media:credit>Dimitrios Kambouris/Getty Images</media:credit>
+<media:description>Elon Musk and his advisers held meetings with some Twitter workers to try to stop them from leaving.</media:description>
+</item>
+<item>
+<title>Elizabeth Holmes to Be Sentenced in Fraud Trial</title>
+<link>https://www.nytimes.com/2022/11/17/technology/elizabeth-holmes-sentencing-theranos.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/17/technology/elizabeth-holmes-sentencing-theranos.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/17/technology/elizabeth-holmes-sentencing-theranos.html" rel="standout"/>
+<description>Ms. Holmes, founder of the failed blood testing start-up Theranos, is scheduled to learn her fate on Friday. She faces a maximum of 20 years in prison.</description>
+<dc:creator>Erin Griffith</dc:creator>
+<pubDate>Fri, 18 Nov 2022 22:23:47 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holmes, Elizabeth (1984- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Theranos Inc</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/16/business/17holmes-sentencing-1/17holmes-sentencing-1-moth.jpg" width="151"/>
+<media:credit>Jim Wilson/The New York Times</media:credit>
+<media:description>More than 100 letters have been filed in support of Elizabeth Holmes, who left court last month with her partner, Billy Evans.</media:description>
+</item>
+<item>
+<title>Children’s Groups Want F.T.C. to Ban ‘Unfair’ Online Manipulation of Kids</title>
+<link>https://www.nytimes.com/2022/11/17/business/childrens-privacy-games-tom-tiktok.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/17/business/childrens-privacy-games-tom-tiktok.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/17/business/childrens-privacy-games-tom-tiktok.html" rel="standout"/>
+<description>Children’s privacy and health experts pressed regulators to prohibit video games and social networks from using attention-hacking techniques on youngsters.</description>
+<dc:creator>Natasha Singer</dc:creator>
+<pubDate>Thu, 17 Nov 2022 19:08:56 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+</item>
+<item>
+<title>New FTX CEO Calls the Crypto Exchange’s Corporate Control a ‘Complete Failure’</title>
+<link>https://www.nytimes.com/2022/11/17/business/ftx-bankruptcy.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/17/business/ftx-bankruptcy.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/17/business/ftx-bankruptcy.html" rel="standout"/>
+<description>“This situation is unprecedented,” said John J. Ray III, who helped manage Enron after its collapse in an accounting fraud scandal in 2001.</description>
+<dc:creator>David Yaffe-Bellany</dc:creator>
+<pubDate>Fri, 18 Nov 2022 02:34:54 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ray, John J III</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/17/business/17ftx-filing/17ftx-filing-moth.jpg" width="151"/>
+<media:credit>Erika P. Rodriguez for The New York Times</media:credit>
+<media:description>Sam Bankman-Fried, the former chief executive of the cryptocurrency exchange FTX, which collapsed into bankruptcy.</media:description>
+</item>
+<item>
+<title>Meet Your New Corporate Office Mate: A ‘Brainless’ Robot</title>
+<link>https://www.nytimes.com/2022/11/17/business/south-korea-office-robots-naver.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/17/business/south-korea-office-robots-naver.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/17/business/south-korea-office-robots-naver.html" rel="standout"/>
+<description>Naver, a South Korean internet firm, is trying to introduce robots into the world of cubicles and conference rooms without making employees uncomfortable.</description>
+<dc:creator>John Yoon and Daisuke Wakabayashi</dc:creator>
+<pubDate>Thu, 17 Nov 2022 10:00:26 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Naver.com</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+<category domain="">upstart2022</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/09/world/00skorea-robots-01/00skorea-robots-01-moth.jpg" width="151"/>
+<media:credit>Chang W. Lee/The New York Times</media:credit>
+<media:description>A robot making a delivery at Naver’s offices on the outskirts of Seoul.</media:description>
+</item>
+<item>
+<title>SpaceX Employees Say They Were Fired for Speaking Up About Elon Musk</title>
+<link>https://www.nytimes.com/2022/11/17/business/spacex-workers-elon-musk.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/17/business/spacex-workers-elon-musk.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/17/business/spacex-workers-elon-musk.html" rel="standout"/>
+<description>Charges filed with federal regulators accuse the company of retaliating against eight workers over an open letter critical of the chief executive.</description>
+<dc:creator>Noam Scheiber and Ryan Mac</dc:creator>
+<pubDate>Thu, 17 Nov 2022 20:09:54 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Labor Relations Board</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shotwell, Gwynne</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/16/business/00musk-space/00musk-space-moth.png" width="151"/>
+<media:credit>Jenna Schoenefeld for The New York Times</media:credit>
+<media:description>Paige Holland-Thielen, left, and Tom Moline say they were fired from SpaceX after helping to organize a letter calling on the company to condemn the Twitter activity of Elon Musk, its founder and chief executive.</media:description>
+</item>
+<item>
+<title>NASA Blazes a Path Back to the Moon With Artemis I Rocket Launch</title>
+<link>https://www.nytimes.com/2022/11/16/science/nasa-launch-artemis-1.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/16/science/nasa-launch-artemis-1.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/16/science/nasa-launch-artemis-1.html" rel="standout"/>
+<description>The uncrewed flight of the giant Space Launch System on Wednesday began a new era of spaceflight amid a debate over how to finance rocket development.</description>
+<dc:creator>Kenneth Chang</dc:creator>
+<pubDate>Fri, 18 Nov 2022 23:36:10 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Artemis Program</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy Space Center</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/16/science/16nasamoon-launch-writethru-lede/16nasamoon-launch-writethru-lede-moth.jpg" width="151"/>
+<media:credit>Kevin Dietsch/Getty Images</media:credit>
+<media:description>After a couple of last minute hiccups, the Artemis I mission’s rocket, carrying the uncrewed Orion space capsule, launched from the Kennedy Space Center for the moon in the wee hours of Wednesday.</media:description>
+</item>
+<item>
+<title>Elon Musk Gives Twitter Employees a Deadline to Stay or Leave</title>
+<link>https://www.nytimes.com/2022/11/16/technology/elon-musk-twitter-employee-deadline.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/16/technology/elon-musk-twitter-employee-deadline.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/16/technology/elon-musk-twitter-employee-deadline.html" rel="standout"/>
+<description>Mr. Musk said that workers would need to answer through an online form by late Thursday and that those who stayed would be “working long hours at high intensity.”</description>
+<dc:creator>Kate Conger</dc:creator>
+<pubDate>Wed, 16 Nov 2022 19:29:46 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/16/business/16twitter/16twitter-moth.jpg" width="151"/>
+<media:credit>Jason Henry for The New York Times</media:credit>
+<media:description>Elon Musk gave Twitter employees a deadline of 5 p.m. Eastern time on Thursday to decide if they wanted to work for him.</media:description>
+</item>
+<item>
+<title>Musk Testifies in Trial Over His Tesla Compensation Package</title>
+<link>https://www.nytimes.com/2022/11/16/business/elon-musk-tesla-pay-trial.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/16/business/elon-musk-tesla-pay-trial.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/16/business/elon-musk-tesla-pay-trial.html" rel="standout"/>
+<description>The billionaire chief executive testified about a multibillion-dollar compensation package the electric car company’s board put in place in 2018.</description>
+<dc:creator>Jack Ewing, Isabella Simonetti and Peter Eavis</dc:creator>
+<pubDate>Wed, 16 Nov 2022 22:41:27 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Compensation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCormick, Kathaleen St J</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/16/business/16musk-testimony-promo/16musk-testimony-promo-moth.jpg" width="151"/>
+<media:credit>Matt Rourke/Associated Press</media:credit>
+</item>
+<item>
+<title>Elon Musk Heads to Court to Defend His Billions in Tesla Pay</title>
+<link>https://www.nytimes.com/2022/11/16/business/elon-musk-tesla-delaware-court.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/16/business/elon-musk-tesla-delaware-court.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/16/business/elon-musk-tesla-delaware-court.html" rel="standout"/>
+<description>A shareholder is asking the court to void a 2018 compensation package that has paid the chief executive nearly $50 billion.</description>
+<dc:creator>Peter Eavis, Jack Ewing and Isabella Simonetti</dc:creator>
+<pubDate>Wed, 16 Nov 2022 14:16:19 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Compensation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Denholm, Robyn</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCormick, Kathaleen St J</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/16/business/16MUSK-PAY-01/16MUSK-PAY-01-moth.jpg" width="151"/>
+<media:credit>Michael A. McCoy/Getty Images</media:credit>
+<media:description>Elon Musk, Tesla’s chief executive, leaving the Delaware Court of Chancery in Wilmington last year. He is expected to return on Wednesday. </media:description>
+</item>
+<item>
+<title>Worried About Your Twitter Account? Here’s What to Do</title>
+<link>https://www.nytimes.com/2022/11/16/technology/personaltech/twitter-exodus.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/16/technology/personaltech/twitter-exodus.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/16/technology/personaltech/twitter-exodus.html" rel="standout"/>
+<description>Don’t delete your account just yet. Elon Musk’s takeover can teach us valuable lessons about our relationship with social networks.</description>
+<dc:creator>Brian X. Chen</dc:creator>
+<pubDate>Fri, 18 Nov 2022 16:58:36 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/17/business/16techfix-print1/16techfix-moth.jpg" width="151"/>
+<media:credit>Derek Abella</media:credit>
+</item>
+<item>
+<title>Elon Musk Fires Twitter Employees Who Criticized Him</title>
+<link>https://www.nytimes.com/2022/11/15/technology/elon-musk-twitter-fired-criticism.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/15/technology/elon-musk-twitter-fired-criticism.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/15/technology/elon-musk-twitter-fired-criticism.html" rel="standout"/>
+<description>Mr. Musk, who is rapidly transforming the social media company, also has cut its contractor work force.</description>
+<dc:creator>Kate Conger, Ryan Mac and Mike Isaac</dc:creator>
+<pubDate>Tue, 15 Nov 2022 23:08:17 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/15/business/15twitter/merlin_215584305_551335cf-bc32-45cc-afa1-b6728b6f48a3-moth.jpg" width="151"/>
+<media:credit>Maja Hitij/Getty Images</media:credit>
+<media:description>Elon Musk, Twitter’s new owner, ordered the firings of nearly two dozen employees who had pushed back publicly and privately against him.</media:description>
+</item>
+<item>
+<title>FTX’s In-House Performance Coach Is Just as Surprised as You Are</title>
+<link>https://www.nytimes.com/2022/11/15/technology/ftx-sam-bankman-fried-psychiatrist.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/15/technology/ftx-sam-bankman-fried-psychiatrist.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/15/technology/ftx-sam-bankman-fried-psychiatrist.html" rel="standout"/>
+<description>George K. Lerner, a psychiatrist who has worked at the collapsed crypto exchange FTX since last year, said he had no knowledge of wrongdoing at the firm.</description>
+<dc:creator>Kevin Roose</dc:creator>
+<pubDate>Wed, 16 Nov 2022 00:29:34 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches (Non-Sports)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/15/business/15roose-topart/15roose-topart-moth.jpg" width="151"/>
+<media:credit>Erika P. Rodriguez for The New York Times</media:credit>
+<media:description>The headquarters of FTX are in the Bahamas, where their in-house coach lives.</media:description>
+</item>
+<item>
+<title>FTX Could Owe More Than 1 Million Creditors</title>
+<link>https://www.nytimes.com/2022/11/15/technology/crypto-ftx-bankruptcy-creditors.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/15/technology/crypto-ftx-bankruptcy-creditors.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/15/technology/crypto-ftx-bankruptcy-creditors.html" rel="standout"/>
+<description>In a court filing on Monday, the cryptocurrency exchange said it was in touch with “dozens” of regulators across the world.</description>
+<dc:creator>David Yaffe-Bellany</dc:creator>
+<pubDate>Wed, 16 Nov 2022 05:04:15 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/15/business/15ftx/15ftx-moth.jpg" width="151"/>
+<media:credit>Michael M. Santiago/Getty Images</media:credit>
+<media:description>The collapsed crypto exchange FTX and its related businesses could owe money to more than one million people.</media:description>
+</item>
+<item>
+<title>Voter Fraud Claims Are Not as Prominent as in 2020</title>
+<link>https://www.nytimes.com/2022/11/14/technology/voter-fraud-claims-misinformation.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/14/technology/voter-fraud-claims-misinformation.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/14/technology/voter-fraud-claims-misinformation.html" rel="standout"/>
+<description>False narratives failed to take root on Election Day. But several Republican candidates pointed to election fraud as their prospects worsened.</description>
+<dc:creator>Stuart A. Thompson</dc:creator>
+<pubDate>Tue, 15 Nov 2022 03:05:08 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Finchem, Mark W</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lake, Kari A</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/15/business/14JPdisinfo-election-print/14disinfo-election-1-moth.jpg" width="151"/>
+<media:credit>Rebecca Noble for The New York Times</media:credit>
+<media:description>Mark Finchem, center, questioned the integrity of the result in his race for Arizona secretary of state. “They are screwing with the election counts,” he wrote on Twitter.</media:description>
+</item>
+<item>
+<title>How Sam Bankman-Fried’s FTX Crypto Empire Collapsed</title>
+<link>https://www.nytimes.com/2022/11/14/technology/ftx-sam-bankman-fried-crypto-bankruptcy.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/14/technology/ftx-sam-bankman-fried-crypto-bankruptcy.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/14/technology/ftx-sam-bankman-fried-crypto-bankruptcy.html" rel="standout"/>
+<description>Mr. Bankman-Fried said in an interview that he had expanded too fast and failed to see warning signs. But he shared few details about his handling of FTX customers’ funds.</description>
+<dc:creator>David Yaffe-Bellany</dc:creator>
+<pubDate>Tue, 15 Nov 2022 13:25:17 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alameda Research LLC</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Caroline (1994- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahama Islands</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Binance</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhao, Changpeng</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/14/business/14ftx-warnings-1/14ftx-warnings-1-moth.jpg" width="151"/>
+<media:credit>Erika P. Rodriguez for The New York Times</media:credit>
+<media:description>Sam Bankman-Fried, who was a cryptocurrency billionaire, lost nearly his entire fortune over the past week.</media:description>
+</item>
+<item>
+<title>Google Agrees to $392 Million Privacy Settlement With 40 States</title>
+<link>https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html" rel="standout"/>
+<description>Under the agreement, which state attorneys general said was the largest U.S. internet privacy settlement, Google must also make its location-tracking practices clearer to users.</description>
+<dc:creator>Cecilia Kang</dc:creator>
+<pubDate>Mon, 14 Nov 2022 19:32:05 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Maps</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/14/multimedia/14google-privacy-pic-1-61f6/14google-privacy-pic-1-61f6-moth.jpg" width="151"/>
+<media:credit>Reuters</media:credit>
+<media:description>The attorneys general said Google’s practices violated state consumer protection laws that forbid companies to mislead and deceive consumers.</media:description>
+</item>
+<item>
+<title>Amazon Is Said to Plan to Lay Off Approximately 10,000 Employees</title>
+<link>https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html" rel="standout"/>
+<description>The job cuts of approximately 10,000, which would start as soon as this week, would focus on the company’s devices organization, retail division and human resources.</description>
+<dc:creator>Karen Weise</dc:creator>
+<pubDate>Tue, 15 Nov 2022 19:41:43 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jassy, Andrew R</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/15/business/14JPamazon-print/14amazon-sub-moth.jpg" width="151"/>
+<media:credit>Miles Fortune for The New York Times</media:credit>
+<media:description>The job cuts at Amazon would represent roughly 3 percent of its corporate employees and less than 1 percent of its global work force of more than 1.5 million.</media:description>
+</item>
+<item>
+<title>Lithium-Ion Batteries in E-Bikes and Other Devices Pose Fire Risks</title>
+<link>https://www.nytimes.com/2022/11/14/us/lithium-ion-ebike-battery-fires.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/14/us/lithium-ion-ebike-battery-fires.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/14/us/lithium-ion-ebike-battery-fires.html" rel="standout"/>
+<description>The batteries, also found in phones, laptops, toothbrushes and other items, have caused about 200 fires and six deaths in New York City this year, fire officials say. Here’s what to know about safety.</description>
+<dc:creator>April Rubin</dc:creator>
+<pubDate>Tue, 15 Nov 2022 18:00:20 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Bicycles, Motorcycles and Scooters</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Defective Products</category>
+<category domain="">Lithium-Ion Batteries</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/14/business/14xp-lithium-ion1/14xp-lithium-ion1-moth.jpg" width="151"/>
+<media:credit>Joyce Zhou/Reuters</media:credit>
+<media:description>On a production line of lithium ion batteries in China in 2018. The batteries power devices in cellphones, laptops, electric toothbrushes, power tools and electric vehicles.</media:description>
+</item>
+<item>
+<title>Time Is Running Out for the Leap Second</title>
+<link>https://www.nytimes.com/2022/11/14/science/time-leap-second.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/14/science/time-leap-second.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/14/science/time-leap-second.html" rel="standout"/>
+<description>To the world’s timekeepers, the leap second is a kludge, a bane, a pain in the little hand. Now they’re proposing to ditch it. Will our days ever be the same?</description>
+<dc:creator>Alanna Mitchell</dc:creator>
+<pubDate>Tue, 15 Nov 2022 17:55:09 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Time</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Weights and Measures</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Navigation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Daylight Saving Time</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Watches and Clocks</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Leap Year</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Global Positioning System</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Bureau of Weights and Measures</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute of Standards and Technology</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/08/science/14SCI-LEAPSEC-promo/14SCI-LEAPSEC-promo-moth.jpg" width="151"/>
+<media:credit>DeAgostini/Getty Images</media:credit>
+<media:description>“The Astronomer,” a 1668 painting by the Dutch painter Johannes Vermeer.</media:description>
+</item>
+<item>
+<title>TikTok Builds Itself Into an Ads Juggernaut</title>
+<link>https://www.nytimes.com/2022/11/14/technology/tiktok-ads-social-media.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/14/technology/tiktok-ads-social-media.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/14/technology/tiktok-ads-social-media.html" rel="standout"/>
+<description>The Chinese-owned video app’s ad business is thriving, even as a digital advertising slump hurts Meta, Snap and other rivals.</description>
+<dc:creator>Kalley Huang, Isabella Simonetti and Tiffany Hsu</dc:creator>
+<pubDate>Mon, 14 Nov 2022 08:00:11 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/11/business/TIKTOK-ADS-01/TIKTOK-ADS-01-moth.jpg" width="151"/>
+<media:credit>TikTok</media:credit>
+<media:description>Screen shots of an ad, featuring Kate Bartlett, for Tiffany & Company on TikTok.</media:description>
+</item>
+<item>
+<title>Internal Documents Show How Close the F.B.I. Came to Deploying Spyware</title>
+<link>https://www.nytimes.com/2022/11/12/us/politics/fbi-pegasus-spyware-phones-nso.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/11/12/us/politics/fbi-pegasus-spyware-phones-nso.html</guid>
+<atom:link href="https://www.nytimes.com/2022/11/12/us/politics/fbi-pegasus-spyware-phones-nso.html" rel="standout"/>
+<description>Christopher Wray, the F.B.I.’s director, told Congress last December that the bureau purchased the phone hacking tool Pegasus for research and development purposes.</description>
+<dc:creator>Mark Mazzetti and Ronen Bergman</dc:creator>
+<pubDate>Tue, 15 Nov 2022 17:46:40 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Cellular Telephones</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wray, Christopher A</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Information Act</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NSO Group</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/11/us/politics/11dc-fbi-nso1/11dc-fbi-nso1-moth.jpg" width="151"/>
+<media:credit>Stefani Reynolds for The New York Times</media:credit>
+<media:description>Christopher A. Wray, the F.B.I. director, acknowledged that the bureau considered deploying the hacking tool.</media:description>
+</item>
+</channel>
+</rss>
